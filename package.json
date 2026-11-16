@@ -1,0 +1,19 @@
+{
+  "name": "tg-bot-helper",
+  "version": "1.0.0",
+  "description": "Create a working Telegram bot in 2 minutes — zero dependencies",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "engines": {
+    "node": ">=16"
+  },
+  "keywords": [
+    "telegram",
+    "bot",
+    "builder",
+    "starter"
+  ],
+  "license": "MIT"
+}
